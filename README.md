@@ -1,5 +1,3 @@
-![SWAG](https://swag.khulnasoft.com/social_card.png)
-
 This is a full-stack TypeScript powered swag shop using:
 
 - Frontend:
