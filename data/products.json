@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Pizza Face",
+    "sku": "prod_Hp7vnX0nP8vr0R",
+    "attribution": "Photo by David Douglas",
+    "description": "Represent the sauce with a friendly face for your laptop or similar size accessories.",
+    "price": 350,
+    "image": "https://user-images.githubusercontent.com/5713670/90302730-1db5cd00-de5d-11ea-9682-1bdd50b49804.png",
+    "currency": "USD"
+  },
+  {
+    "name": "Orange Sharpie",
+    "sku": "prod_Hp7uyQXChOAwvv",
+    "attribution": "Photo by Shawn",
+    "description": "Take open-source outside the bounds of its original gate keepers using the clean strokes. ",
+    "price": 300,
+    "image": "https://user-images.githubusercontent.com/5713670/90302731-20182700-de5d-11ea-8e7a-c1d021c834bb.png",
+    "currency": "USD"
+  },
+  {
+    "name": "Sauced",
+    "sku": "prod_Hp7uyQXChOAwvv",
+    "attribution": "Photo by Shawn",
+    "description": "If you don't got sauce, then you lost. Here is your chanced to get sauced.",
+    "price": 200,
+    "image": "https://user-images.githubusercontent.com/5713670/95026919-8fceb500-0649-11eb-981b-d4de1c6226df.png",
+    "currency": "USD"
+  }
+]
